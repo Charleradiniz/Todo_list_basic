@@ -104,7 +104,7 @@ button.delete-btn:hover {
 
 .bloco {
     padding: 20px;
-    background-color: #758676bd;
+    background-color: #758676a2;
     border-radius: 10px;
 }
 
@@ -112,6 +112,6 @@ button.delete-btn:hover {
     background-color: white;
     border-radius: 10px;
     padding: 10px;
-    align-items: center;
+
     
 }
