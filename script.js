@@ -157,7 +157,7 @@ async function updateBackgroundAndQuote() {
 
     // Exibir os créditos da imagem se disponíveis
     if (authorData) {
-        creditsElement.innerText = `Photo by ${authorData.author} on Unsplash`;
+        creditsElement.innerText = `Photo by ${authorData.author}.`;
     } else {
         creditsElement.innerText = '';
     }
